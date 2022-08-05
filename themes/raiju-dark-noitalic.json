@@ -150,7 +150,8 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#00A889"
+        "foreground": "#00A889",
+        "fontStyle": "italic"
       },
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment"
