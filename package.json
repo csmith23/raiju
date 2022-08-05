@@ -1,10 +1,10 @@
 {
-  "name": "raiju",
-  "displayName": "Raijū",
-  "description": "Raijū is a Visual Studio Code theme inspired by Ariake Dark and Subliminal",
+  "name": "raiju-contrast",
+  "displayName": "raijū theme",
+  "description": "raijū is a visual studio code theme inspired by ariake dark and subliminal, forked off Tobias Timm's theme.",
   "license": "MIT",
-  "version": "2.2.2",
-  "publisher": "TobiasTimm",
+  "version": "0.0.1",
+  "publisher": "csmith23",
   "icon": "icon.png",
   "preview": false,
   "engines": {
@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tobiastimm/raiju.git"
+    "url": "https://github.com/csmith23/raiju.git"
   },
   "bugs": {
-    "url": "https://github.com/tobiastimm/raiju/issues"
+    "url": "https://github.com/csmith23/raiju/issues"
   },
   "categories": [
     "Themes"
@@ -30,27 +30,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Raijū - Classic",
+        "label": "raijū classic",
         "uiTheme": "vs-dark",
         "path": "./themes/raiju-classic.json"
       },
       {
-        "label": "Raijū",
+        "label": "raijū",
         "uiTheme": "vs-dark",
         "path": "./themes/raiju.json"
       },
       {
-        "label": "Raijū (No italics)",
+        "label": "raijū (no italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/raiju-noitalic.json"
       },
       {
-        "label": "Raijū - Dark",
+        "label": "raijū dark",
         "uiTheme": "vs-dark",
         "path": "./themes/raiju-dark.json"
       },
       {
-        "label": "Raijū - Dark (No italics)",
+        "label": "raijū - dark (no italics)",
         "uiTheme": "vs-dark",
         "path": "./themes/raiju-dark-noitalic.json"
       }
@@ -58,7 +58,7 @@
   },
   "__metadata": {
     "id": "164a680e-c8b0-4902-9321-dfd1888bf543",
-    "publisherDisplayName": "Tobias Timm",
+    "publisherDisplayName": "Coleman Smith",
     "publisherId": "5e0244e1-b94f-4e44-8cdc-1397334a044f"
   }
 }

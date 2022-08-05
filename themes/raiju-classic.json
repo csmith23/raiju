@@ -228,9 +228,7 @@
         "source.ts variable.object.property.ts",
         "source.tsx variable.object.property.tsx"
       ],
-      "settings": {
-        // "foreground": "#d7e2ff"
-      }
+      "settings": {}
     },
     {
       "name": "Meta object literal key - Punctuation",
@@ -399,7 +397,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#6F7899",
+        "foreground": "#00A889",
         "fontStyle": "italic"
       }
     },
@@ -1154,7 +1152,7 @@
       "name": "INI - Comment",
       "scope": ["comment.line.number-sign.ini"],
       "settings": {
-        "foreground": "#6F7899",
+        "foreground": "#00A889",
         "fontStyle": "italic"
       }
     },
@@ -1177,7 +1175,7 @@
       "name": "Markdown - Comment",
       "scope": ["text.html.markdown comment.block.html"],
       "settings": {
-        "foreground": "#6F7899",
+        "foreground": "#00A889",
         "fontStyle": "italic"
       }
     },

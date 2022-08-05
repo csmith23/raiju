@@ -150,7 +150,7 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#6F7899"
+        "foreground": "#00A889"
       },
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment"
@@ -362,7 +362,6 @@
     {
       "scope": ["entity.name.tag", "support.class.component"],
       "settings": {
-        // "foreground": "#99a7e2"
         "foreground": "#8d9ad1"
       }
     },
@@ -372,7 +371,6 @@
         "meta.tag.custom entity.name.tag"
       ],
       "settings": {
-        // "foreground": "#99a7e2"
         "foreground": "#a188f1"
       }
     },
@@ -671,7 +669,7 @@
         "punctuation.colon.graphql"
       ],
       "settings": {
-        // "foreground": "#737f9c"
+
         "foreground": "#8892aa"
       }
     },
